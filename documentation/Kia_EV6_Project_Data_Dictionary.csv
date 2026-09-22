@@ -1,0 +1,51 @@
+Column,Type
+Session_ID,Project metadata / quality field
+Timestamp,Measured / source-derived EV6 telemetry
+Epoch,Measured / source-derived EV6 telemetry
+Source_Log,Measured / source-derived EV6 telemetry
+Vehicle_Speed_kmh,Measured / source-derived EV6 telemetry
+Speed_mps,Project metadata / quality field
+Accel_X_mps2,Measured / source-derived EV6 telemetry
+Accel_Y_mps2,Measured / source-derived EV6 telemetry
+Accel_Z_mps2,Measured / source-derived EV6 telemetry
+Altitude_m,Measured / source-derived EV6 telemetry
+Road_Grade_pct,Calculated analytical feature
+Heading_deg,Measured / source-derived EV6 telemetry
+Pitch_deg,Measured / source-derived EV6 telemetry
+Roll_deg,Measured / source-derived EV6 telemetry
+Aero_Force_N,Calculated analytical feature
+Rolling_Resistance_N,Calculated analytical feature
+Grade_Force_N,Calculated analytical feature
+Inertial_Force_N,Calculated analytical feature
+Estimated_Road_Load_N,Calculated analytical feature
+Estimated_Wheel_Power_kW,Calculated analytical feature
+Estimated_Wheel_Torque_Nm,Calculated analytical feature
+Estimated_Motor_Torque_Nm,Calculated analytical feature
+Battery_Voltage_V,Measured / source-derived EV6 telemetry
+Battery_Current_A,Measured / source-derived EV6 telemetry
+Battery_Power_kW,Calculated analytical feature
+Available_Charge_Power_kW,Measured / source-derived EV6 telemetry
+Available_Discharge_Power_kW,Measured / source-derived EV6 telemetry
+Battery_SOC_pct,Measured / source-derived EV6 telemetry
+SOC_Display_pct,Measured / source-derived EV6 telemetry
+Battery_SOH_pct,Measured / source-derived EV6 telemetry
+Battery_Max_Temp_C,Measured / source-derived EV6 telemetry
+Battery_Min_Temp_C,Measured / source-derived EV6 telemetry
+Battery_Temp_C,Measured / source-derived EV6 telemetry
+Battery_Temp_Spread_C,Calculated analytical feature
+Max_Cell_Voltage_V,Measured / source-derived EV6 telemetry
+Min_Cell_Voltage_V,Measured / source-derived EV6 telemetry
+Cell_Voltage_Spread_V,Calculated analytical feature
+Ambient_Temp_C,Measured / source-derived EV6 telemetry
+Distance_Total_km,Measured / source-derived EV6 telemetry
+Distance_Trip_km,Measured / source-derived EV6 telemetry
+TPMS_FL,Measured / source-derived EV6 telemetry
+TPMS_FR,Measured / source-derived EV6 telemetry
+TPMS_RL,Measured / source-derived EV6 telemetry
+TPMS_RR,Measured / source-derived EV6 telemetry
+TPMS_Avg,Calculated analytical feature
+Latitude_deg,Measured / source-derived EV6 telemetry
+Longitude_deg,Measured / source-derived EV6 telemetry
+Drive_Context,Project metadata / quality field
+Estimated_Powertrain_Efficiency_pct,Calculated analytical feature
+Data_Quality_Flag,Project metadata / quality field
